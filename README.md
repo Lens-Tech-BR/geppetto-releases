@@ -8,3 +8,7 @@ Este repositório hospeda exclusivamente os instaladores públicos oficiais do a
 > **Aviso:**
 > - O código-fonte do Geppetto é proprietário e não é distribuído neste repositório.
 > - O uso do aplicativo requer uma licença comercial válida.
+
+## Antivírus e EDR
+
+O Geppetto pode ser apontado como suspeito por antivírus e EDR. O [guia de antivírus e EDR](docs/ANTIVIRUS-E-EDR.md) explica o motivo, como conferir o instalador e como pedir liberação ao TI.
